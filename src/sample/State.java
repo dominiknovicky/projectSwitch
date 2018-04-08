@@ -2,6 +2,6 @@ package sample;
 
 public enum State {
 
-    NEW, PLAYING, END
+    NEW, PLAYING, END, GENERATE
 
 }
